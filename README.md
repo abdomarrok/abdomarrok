@@ -49,7 +49,7 @@ Here are some ideas to get you started:
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+   <!-- <img src="images/logo.png" alt="Logo" width="80" height="80">-->
   </a>
 
   <h3 align="center">My Profile</h3>
@@ -84,15 +84,6 @@ Here are some ideas to get you started:
 </details>
 
 
-
-
-### Built With
-* [![Next][Next.js]][Next-url]
-* [![React][React.js]][React-url]
-* [![Bootstrap][Bootstrap.com]][Bootstrap-url]
-* [![JQuery][JQuery.com]][JQuery-url]
-<p align="right">(<a href="#top">back to top</a>)</p>
-<!-- CONTACT -->
 ## Contact
 
 Your Name - [@your_twitter](https://twitter.com/abdomarrok) - marrokmar@gmail.com
